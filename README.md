@@ -6,3 +6,6 @@ A simple application to random downloading of quotes about Chuck Norris. Written
 
 ## Technologies
 HTML5 / CSS3 / AJAX / jQuery
+
+## Live preview
+https://kaczynska.github.io/portfolio/chuck-norris/
